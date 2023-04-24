@@ -325,7 +325,7 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.manufacturing engineering {
+.manufacturin gengineering {
   	width: 85%;
   	-moz-animation: manufacturing engineering 2s ease;
   	-webkit-animation: manufacturing engineering 2s ease;
@@ -382,9 +382,9 @@ ul#nav li.current a { color: #F06000; }
 }
 
 
-@-moz-keyframes photoshop {
+@-moz-keyframes manufacturing engineering {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 85%;  }
 }
 @-moz-keyframes illustrator {
   0%   { width: 0px;  }
@@ -407,9 +407,9 @@ ul#nav li.current a { color: #F06000; }
   100% { width: 50%;  }
 }
 
-@-webkit-keyframes photoshop {
+@-webkit-keyframes manufacturing engineering {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 85%;  }
 }
 @-webkit-keyframes illustrator {
   0%   { width: 0px;  }
