@@ -376,11 +376,11 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: problem-solving 2s ease;
 
 
-@-moz-keyframes manufacturing-engineering {
+@-moz-keyframes manufacturing-engineering
   0%   { width: 0px;  }
   100% { width: 85%;  }
 }
-@-moz-keyframes R {
+@-moz-keyframes R 
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
@@ -390,7 +390,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes tableau
   0%   { width: 0px;  }
-  100% { width: 40% }
+  100% { width: 40%;  }
 }
 @-moz-keyframes photoshop
   0%   { width: 0px;  }
@@ -416,11 +416,11 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes manufacturing-engineering {
+@-webkit-keyframes manufacturing-engineering
   0%   { width: 0px;  }
   100% { width: 85%;  }
 }
-@-webkit-keyframes R {
+@-webkit-keyframes R
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
