@@ -360,10 +360,10 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: microsoftoffice 2s ease;
   	-webkit-animation: microsoftoffice 2s ease;
 }
-.lean six sigma {
-  	width: 50%;
-  	-moz-animation: lean six sigma 2s ease;
-  	-webkit-animation: lean six sigma 2s ease;
+.leansixsigma {
+  	width: 60%;
+  	-moz-animation: leansixsigma 2s ease;
+  	-webkit-animation: leansixsigma 2s ease;
 }
 .leadershipandmanagement {
   	width: 75%;
@@ -406,7 +406,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes leansixsigma
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 60%;  }
 }
 @-moz-keyframes leadershipandmanagement
   0%   { width: 0px;  }
@@ -446,7 +446,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes leansixsigma
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 60%;  }
 }
 @-webkit-keyframes leadershipandmanagement
   0%   { width: 0px;  }
