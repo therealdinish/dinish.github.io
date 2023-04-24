@@ -325,7 +325,7 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.manufacturin gengineering {
+.manufacturing engineering {
   	width: 85%;
   	-moz-animation: manufacturing engineering 2s ease;
   	-webkit-animation: manufacturing engineering 2s ease;
@@ -336,100 +336,125 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: R 2s ease;
 }
 .mysql {
-  	width: 50%;
+  	width: 40%;
   	-moz-animation: mysql 2s ease;
   	-webkit-animation: mysql 2s ease;
 }
-.css {
-  	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+.tableau {
+  	width: 40%;
+  	-moz-animation: tableau 2s ease;
+  	-webkit-animation: tableau 2s ease;
 }
-.html5 {
+.photoshop {
   	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+  	-moz-animation: photoshop 2s ease;
+  	-webkit-animation: photoshop 2s ease;
 }
-.jquery {
+.lightroom {
+  	width: 80%;
+  	-moz-animation: lightroom 2s ease;
+  	-webkit-animation: lightroom 2s ease;
+}
+.microsoft office {
+  	width: 80%;
+  	-moz-animation: microsoft office 2s ease;
+  	-webkit-animation: microsoft office 2s ease;
+}
+.lean six sigma {
   	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: lean six sigma 2s ease;
+  	-webkit-animation: lean six sigma 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.leadership and management {
+  	width: 75%;
+  	-moz-animation: leadership and management 2s ease;
+  	-webkit-animation: leadership and management 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
-}
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
-}
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
-}
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
-}
+.problem solving {
+  	width: 80%;
+  	-moz-animation: problem solving 2s ease;
+  	-webkit-animation: problem solving 2s ease;
 
 
 @-moz-keyframes manufacturing engineering {
   0%   { width: 0px;  }
   100% { width: 85%;  }
 }
-@-moz-keyframes illustrator {
+@-moz-keyframes R {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 60%;  }
 }
-@-moz-keyframes wordpress {
+@-moz-keyframes mysql
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 40%;  }
 }
-@-moz-keyframes css {
+@-moz-keyframes tableau
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 40% }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes photoshop
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes lightroom
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-moz-keyframes microsoft office
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-moz-keyframes lean six sigma
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-
+@-moz-keyframes leadership and management
+  0%   { width: 0px;  }
+  100% { width: 75%;  }
+}
+@-moz-keyframes problem solving
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
 @-webkit-keyframes manufacturing engineering {
   0%   { width: 0px;  }
   100% { width: 85%;  }
 }
-@-webkit-keyframes illustrator {
+@-webkit-keyframes R {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 60%;  }
 }
-@-webkit-keyframes wordpress {
+@-webkit-keyframes mysql
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 40%;  }
 }
-@-webkit-keyframes css {
+@-webkit-keyframes tableau
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 40%;  }
 }
-@-webkit-keyframes html5 {
+@-webkit-keyframes photoshop
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes jquery {
+@-webkit-keyframes lightroom
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes microsoft office
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes lean six sigma
   0%   { width: 0px;  }
   100% { width: 50%;  }
+}
+@-webkit-keyframes leadership and management
+  0%   { width: 0px;  }
+  100% { width: 75%;  }
+}
+@-webkit-keyframes problem solving
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
 }
 
 /* ------------------------------------------------------------------ */
