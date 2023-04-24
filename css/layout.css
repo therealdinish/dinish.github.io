@@ -325,10 +325,10 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.manufacturing engineering {
+.manufacturing-engineering {
   	width: 85%;
-  	-moz-animation: manufacturing engineering 2s ease;
-  	-webkit-animation: manufacturing engineering 2s ease;
+  	-moz-animation: manufacturing-engineering 2s ease;
+  	-webkit-animation: manufacturing-engineering 2s ease;
 }
 .R {
   	width: 60%;
@@ -355,28 +355,28 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: lightroom 2s ease;
   	-webkit-animation: lightroom 2s ease;
 }
-.microsoft office {
+.microsoft-office {
   	width: 80%;
-  	-moz-animation: microsoft office 2s ease;
-  	-webkit-animation: microsoft office 2s ease;
+  	-moz-animation: microsoft-office 2s ease;
+  	-webkit-animation: microsoft-office 2s ease;
 }
-.lean six sigma {
+.lean-six-sigma {
   	width: 50%;
-  	-moz-animation: lean six sigma 2s ease;
-  	-webkit-animation: lean six sigma 2s ease;
+  	-moz-animation: lean-six-sigma 2s ease;
+  	-webkit-animation: lean-six-sigma 2s ease;
 }
-.leadership and management {
+.leadership-and-management {
   	width: 75%;
-  	-moz-animation: leadership and management 2s ease;
-  	-webkit-animation: leadership and management 2s ease;
+  	-moz-animation: leadership-and-management 2s ease;
+  	-webkit-animation: leadership-and-management 2s ease;
 }
-.problem solving {
+.problem-solving {
   	width: 80%;
-  	-moz-animation: problem solving 2s ease;
-  	-webkit-animation: problem solving 2s ease;
+  	-moz-animation: problem-solving 2s ease;
+  	-webkit-animation: problem-solving 2s ease;
 
 
-@-moz-keyframes manufacturing engineering {
+@-moz-keyframes manufacturing-engineering {
   0%   { width: 0px;  }
   100% { width: 85%;  }
 }
@@ -400,23 +400,23 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes microsoft office
+@-moz-keyframes microsoft-office
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes lean six sigma
+@-moz-keyframes lean-six-sigma
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-moz-keyframes leadership and management
+@-moz-keyframes leadership-and-management
   0%   { width: 0px;  }
   100% { width: 75%;  }
 }
-@-moz-keyframes problem solving
+@-moz-keyframes problem-solving
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes manufacturing engineering {
+@-webkit-keyframes manufacturing-engineering {
   0%   { width: 0px;  }
   100% { width: 85%;  }
 }
@@ -440,19 +440,19 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes microsoft office
+@-webkit-keyframes microsoft-office
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes lean six sigma
+@-webkit-keyframes lean-six-sigma
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-webkit-keyframes leadership and management
+@-webkit-keyframes leadership-and-management
   0%   { width: 0px;  }
   100% { width: 75%;  }
 }
-@-webkit-keyframes problem solving
+@-webkit-keyframes problem-solving
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
