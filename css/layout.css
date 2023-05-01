@@ -461,7 +461,7 @@ ul#nav li.current a { color: #F06000; }
 /* e. Portfolio Section
 /* ------------------------------------------------------------------ */
 
-#portfolio h1 {
+#portfolio {
    background-color: #ebeeee;
    padding-top: 90px;
    padding-bottom: 60px;
