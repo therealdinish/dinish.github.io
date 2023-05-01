@@ -462,7 +462,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio h1 {
-   background: #ebeeee;
+   background-color: #ebeeee;
    padding-top: 90px;
    padding-bottom: 60px;
 }
