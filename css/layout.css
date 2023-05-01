@@ -325,84 +325,60 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.manufacturingengineering {
-  	width: 85%;
-  	-moz-animation: manufacturingengineering 2s ease;
-  	-webkit-animation: manufacturingengineering 2s ease;
-}
-.R {
-  	width: 60%;
-  	-moz-animation: R 2s ease;
-  	-webkit-animation: R 2s ease;
-}
-.mysql {
-  	width: 40%;
-  	-moz-animation: mysql 2s ease;
-  	-webkit-animation: mysql 2s ease;
-}
-.tableau {
-  	width: 40%;
-  	-moz-animation: tableau 2s ease;
-  	-webkit-animation: tableau 2s ease;
-}
-.photoshop {
-  	width: 80%;
+.manufacturingoperations {
+  	width: 75%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
-.lightroom {
-  	width: 80%;
-  	-moz-animation: lightroom 2s ease;
-  	-webkit-animation: lightroom 2s ease;
-}
-.microsoftoffice {
-  	width: 80%;
-  	-moz-animation: microsoftoffice 2s ease;
-  	-webkit-animation: microsoftoffice 2s ease;
-}
 .leansixsigma {
   	width: 60%;
-  	-moz-animation: leansixsigma 2s ease;
-  	-webkit-animation: leansixsigma 2s ease;
+  	-moz-animation: illustrator 2s ease;
+  	-webkit-animation: illustrator 2s ease;
 }
 .leadershipandmanagement {
-  	width: 75%;
-  	-moz-animation: leadershipandmanagement 2s ease;
-  	-webkit-animation: leadershipandmanagement 2s ease;
+  	width: 85%;
+  	-moz-animation: wordpress 2s ease;
+  	-webkit-animation: wordpress 2s ease;
 }
 .problemsolving {
   	width: 80%;
-  	-moz-animation: problemsolving 2s ease;
-  	-webkit-animation: problemsolving 2s ease;
+  	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease;
+}
+.microsoftoffice {
+  	width: 90%;
+  	-moz-animation: html5 2s ease;
+  	-webkit-animation: html5 2s ease;
+}
+.photoshop {
+  	width: 70%;
+  	-moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
+}
+.lightroom {
+  	width: 70%;
+  	-moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
+}
+.r {
+  	width: 70%;
+  	-moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
+}
+.tableau {
+  	width: 50%;
+  	-moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
+}
+.mysql {
+  	width: 50%;
+  	-moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
+}
 
-
-@-moz-keyframes manufacturingengineering {
+@-moz-keyframes manufacturingoperations {
   0%   { width: 0px;  }
-  100% { width: 85%;  }
-}
-@-moz-keyframes R {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
-}
-@-moz-keyframes mysql {
-  0%   { width: 0px;  }
-  100% { width: 40%;  }
-}
-@-moz-keyframes tableau {
-  0%   { width: 0px;  }
-  100% { width: 40%;  }
-}
-@-moz-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 80%;  }
-}
-@-moz-keyframes lightroom {
-  0%   { width: 0px;  }
-  100% { width: 80%;  }
-}
-@-moz-keyframes microsoftoffice {
-  0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 75%;  }
 }
 @-moz-keyframes leansixsigma {
   0%   { width: 0px;  }
@@ -410,39 +386,40 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes leadershipandmanagement {
   0%   { width: 0px;  }
-  100% { width: 75%;  }
+  100% { width: 85%;  }
 }
 @-moz-keyframes problemsolving {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes manufacturingengineering {
+@-moz-keyframes microsoftoffice {
   0%   { width: 0px;  }
-  100% { width: 85%;  }
+  100% { width: 90%;  }
 }
-@-webkit-keyframes R {
+@-moz-keyframes photoshop {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 70%;  }
 }
-@-webkit-keyframes mysql {
+@-moz-keyframes lightroom {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 70%;  }
 }
-@-webkit-keyframes tableau {
+@-moz-keyframes r {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 70%;  }
 }
-@-webkit-keyframes photoshop {
+@-moz-keyframes tableau {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 50%;  }
 }
-@-webkit-keyframes lightroom {
+@-moz-keyframes mysql {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 50%;  }
 }
-@-webkit-keyframes microsoftoffice {
+
+@-webkit-keyframes manufacturingoperations {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 75%;  }
 }
 @-webkit-keyframes leansixsigma {
   0%   { width: 0px;  }
@@ -450,11 +427,35 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes leadershipandmanagement {
   0%   { width: 0px;  }
-  100% { width: 75%;  }
+  100% { width: 85%;  }
 }
 @-webkit-keyframes problemsolving {
   0%   { width: 0px;  }
   100% { width: 80%;  }
+}
+@-webkit-keyframes microsoftoffice {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes photoshop {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes lightroom {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes r {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes tableau {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-webkit-keyframes mysql {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
 }
 
 /* ------------------------------------------------------------------ */
