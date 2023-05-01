@@ -376,83 +376,83 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: problemsolving 2s ease;
 
 
-@-moz-keyframes manufacturingengineering
+@-moz-keyframes manufacturingengineering {
   0%   { width: 0px;  }
   100% { width: 85%;  }
 }
-@-moz-keyframes R 
+@-moz-keyframes R {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-moz-keyframes mysql
+@-moz-keyframes mysql {
   0%   { width: 0px;  }
   100% { width: 40%;  }
 }
-@-moz-keyframes tableau
+@-moz-keyframes tableau {
   0%   { width: 0px;  }
   100% { width: 40%;  }
 }
-@-moz-keyframes photoshop
+@-moz-keyframes photoshop {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes lightroom
+@-moz-keyframes lightroom {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes microsoftoffice
+@-moz-keyframes microsoftoffice {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes leansixsigma
+@-moz-keyframes leansixsigma {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-moz-keyframes leadershipandmanagement
+@-moz-keyframes leadershipandmanagement {
   0%   { width: 0px;  }
   100% { width: 75%;  }
 }
-@-moz-keyframes problemsolving
+@-moz-keyframes problemsolving {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes manufacturingengineering
+@-webkit-keyframes manufacturingengineering {
   0%   { width: 0px;  }
   100% { width: 85%;  }
 }
-@-webkit-keyframes R
+@-webkit-keyframes R {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes mysql
+@-webkit-keyframes mysql {
   0%   { width: 0px;  }
   100% { width: 40%;  }
 }
-@-webkit-keyframes tableau
+@-webkit-keyframes tableau {
   0%   { width: 0px;  }
   100% { width: 40%;  }
 }
-@-webkit-keyframes photoshop
+@-webkit-keyframes photoshop {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes lightroom
+@-webkit-keyframes lightroom {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes microsoftoffice
+@-webkit-keyframes microsoftoffice {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes leansixsigma
+@-webkit-keyframes leansixsigma {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes leadershipandmanagement
+@-webkit-keyframes leadershipandmanagement {
   0%   { width: 0px;  }
   100% { width: 75%;  }
 }
-@-webkit-keyframes problemsolving
+@-webkit-keyframes problemsolving {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
